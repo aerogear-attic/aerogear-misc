@@ -20,7 +20,7 @@
 
     <groupId>org.jboss.aerogear</groupId>
     <artifactId>aerogear-misc</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.1</version>
     <packaging>jar</packaging>
 
     <parent>
@@ -33,7 +33,7 @@
         <connection>scm:git:git://github.com/aerogear/aerogear-misc.git</connection>
         <developerConnection>scm:git:git@github.com:aerogear/aerogear-misc.git</developerConnection>
         <url>https://github.com/aerogear/aerogear-misc</url>
-        <tag>HEAD</tag>
+        <tag>0.1.1</tag>
     </scm>
 
     <properties>
