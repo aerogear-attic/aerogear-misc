@@ -22,6 +22,7 @@
     <artifactId>aerogear-misc</artifactId>
     <version>0.2.1-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <name>Artifact used across Aerogear projects for common Maven builds</name>
 
     <parent>
         <groupId>org.jboss</groupId>
